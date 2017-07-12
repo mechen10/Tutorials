@@ -50,3 +50,5 @@ legend('center' # puts in center of space
        , col = 'black' # outline is black for pch 19
        , pt.bg = randomColors # fills in pch 19 with color
        )
+
+
