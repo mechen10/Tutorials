@@ -1,0 +1,15 @@
+SampleID	Factor		Type	Depth	Description	Samples
+Blade.bot.52	1		Blade	bottom	Blade.bot.52	Macrocystis-Bottom
+Blade.bot.54	1		Blade	bottom	Blade.bot.54	Macrocystis-Bottom
+Blade.bot.55	1		Blade	bottom	Blade.bot.55	Macrocystis-Bottom
+Blade.bot.59	1		Blade	bottom	Blade.bot.59	Macrocystis-Bottom
+Blade.bot.60	1		Blade	bottom	Blade.bot.60	Macrocystis-Bottom
+Blade.mid.51	1		Blade	mid	Blade.mid.51	Macrocystis-Middle
+Blade.mid.56	1		Blade	mid	Blade.mid.56	Macrocystis-Middle
+Blade.mid.57	1		Blade	mid	Blade.mid.57	Macrocystis-Middle
+Blade.mid.58	1		Blade	mid	Blade.mid.58	Macrocystis-Middle
+Water.bot.in.68	1		Water	bottom	Water.bot.in.68	Water
+Water.bot.in.69	1		Water	bottom	Water.bot.in.69	Water
+Water.bot.in.71	1		Water	bottom	Water.bot.in.71	Water
+Water.bot.in.73	1		Water	bottom	Water.bot.in.73	Water
+Water.surface.in.67	1		Water	surface	Water.surface.in.67	Water
